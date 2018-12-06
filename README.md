@@ -6,4 +6,4 @@ This is only a basic idea of what i would like to add to the bot. Future updates
 2.) Adding twitter integration where the bot would post hourly updates or tweets from a specified account.
 ..... And hopefully more stuff as we progress.
 
-Any ideas/feedback would be appreciated.
+Any ideas/feedback would be appreciated...
