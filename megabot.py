@@ -8,17 +8,17 @@ from discord.ext.commands import Bot
 import praw
 
 
-blameh = praw.Reddit(client_id='ofpU7MVEBEPBTg',
-                  client_secret='f44rSSXENKk1znRfZhsQZrEzn64',
-                  username = 'murtreddit',
-                  password = '1843184318431843',
-                  user_agent = 'PRAWlearn.1' )
+blameh = praw.Reddit(client_id='#####',
+                  client_secret='#####',
+                  username = '######',
+                  password = '####',
+                  user_agent = '#######' )
 
 
 
 BOT_PREFIX = ("?", "!")
 client = Bot(command_prefix = BOT_PREFIX)
-TOKEN = "NDgyNjA0ODk2NTcxNjIxMzk2.DmHYoQ.hs719DNu2YZaVxXC6ZrwLmDwd64"
+TOKEN = "###################"
 
 @client.event
 
