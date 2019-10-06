@@ -83,6 +83,11 @@ async def sfhu(message):
     v = list[randint(0,19)]
     print (v)
     await chanl.send(v)
+	
+@client.command(name = 'Nothing', 
+		description = 'Does absolutely nothing',
+		pass_context = 'True')
+	print("lol you have achieved nothing")
 
 
 
